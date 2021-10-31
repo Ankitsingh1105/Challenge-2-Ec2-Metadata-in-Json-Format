@@ -1,4 +1,4 @@
-# Challenge-2-Ec2-Metadata-in-Json-Format
+# Ec2-Metadata-in-Json-Format
 
 ## Before you begin:
 Make Sure the script have permission to execute.
